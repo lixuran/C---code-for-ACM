@@ -1,0 +1,3 @@
+﻿  kuangbin5h.cpp
+c:\users\hasee\source\repos\consoleapplication22\kuangbin5h\kuangbin5h.cpp(93): warning C4477: “scanf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“std::string *”
+  kuangbin5h.vcxproj -> C:\Users\hasee\source\repos\ConsoleApplication22\x64\Debug\kuangbin5h.exe

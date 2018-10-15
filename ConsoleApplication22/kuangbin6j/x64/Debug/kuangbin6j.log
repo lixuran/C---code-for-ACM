@@ -1,0 +1,9 @@
+﻿  kuangbin6j.cpp
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(101): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(115): warning C4101: “z”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(115): warning C4101: “k”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(115): warning C4101: “y”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(116): warning C4101: “s”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(115): warning C4101: “x”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6j\kuangbin6j.cpp(115): warning C4101: “t”: 未引用的局部变量
+  kuangbin6j.vcxproj -> C:\Users\hasee\source\repos\ConsoleApplication22\x64\Debug\kuangbin6j.exe

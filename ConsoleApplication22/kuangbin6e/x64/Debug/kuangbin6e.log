@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  kuangbin6e.cpp
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6e\kuangbin6e.cpp(80): warning C4101: “m”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6e\kuangbin6e.cpp(80): warning C4101: “z”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6e\kuangbin6e.cpp(80): warning C4101: “k”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6e\kuangbin6e.cpp(80): warning C4101: “y”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6e\kuangbin6e.cpp(80): warning C4101: “x”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin6e\kuangbin6e.cpp(80): warning C4101: “t”: 未引用的局部变量
+  kuangbin6e.vcxproj -> C:\Users\hasee\source\repos\ConsoleApplication22\x64\Debug\kuangbin6e.exe

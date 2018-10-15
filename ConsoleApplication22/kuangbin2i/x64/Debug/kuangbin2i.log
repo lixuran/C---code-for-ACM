@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  kuangbin2i.cpp
+c:\users\hasee\source\repos\consoleapplication22\kuangbin2i\kuangbin2i.cpp(24): error C2228: “.step”的左边必须有类/结构/联合
+  c:\users\hasee\source\repos\consoleapplication22\kuangbin2i\kuangbin2i.cpp(24): note: 类型是“N *”
+  c:\users\hasee\source\repos\consoleapplication22\kuangbin2i\kuangbin2i.cpp(24): note: 是否改用“->”?
+c:\users\hasee\source\repos\consoleapplication22\kuangbin2i\kuangbin2i.cpp(45): error C3861: “bfs”: 找不到标识符
+c:\users\hasee\source\repos\consoleapplication22\kuangbin2i\kuangbin2i.cpp(46): error C2143: 语法错误: 缺少“;”(在“}”的前面)

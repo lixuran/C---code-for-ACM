@@ -1,0 +1,4 @@
+﻿  kuangbin4b.cpp
+c:\users\hasee\source\repos\consoleapplication22\kuangbin4b\kuangbin4b.cpp(52): warning C4101: “f”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin4b\kuangbin4b.cpp(52): warning C4101: “s”: 未引用的局部变量
+  kuangbin4b.vcxproj -> C:\Users\hasee\source\repos\ConsoleApplication22\x64\Debug\kuangbin4b.exe

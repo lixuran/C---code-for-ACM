@@ -1,0 +1,3 @@
+﻿  K.cpp
+c:\users\hasee\source\repos\consoleapplication22\k\k.cpp(29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  K.vcxproj -> C:\Users\hasee\source\repos\ConsoleApplication22\x64\Debug\K.exe

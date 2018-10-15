@@ -1,0 +1,4 @@
+﻿  kuangbin7c.cpp
+c:\users\hasee\source\repos\consoleapplication22\kuangbin7c\kuangbin7c.cpp(99): warning C4101: “j”: 未引用的局部变量
+c:\users\hasee\source\repos\consoleapplication22\kuangbin7c\kuangbin7c.cpp(99): warning C4101: “t”: 未引用的局部变量
+  kuangbin7c.vcxproj -> C:\Users\hasee\source\repos\ConsoleApplication22\x64\Debug\kuangbin7c.exe

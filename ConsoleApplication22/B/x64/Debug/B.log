@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  B.cpp
+c:\users\hasee\source\repos\consoleapplication22\b\b.cpp(45): error C2561: “main”: 函数必须返回值
+  c:\users\hasee\source\repos\consoleapplication22\b\b.cpp(22): note: 参见“main”的声明
+c:\users\hasee\source\repos\consoleapplication22\b\b.cpp(50): error C2561: “main”: 函数必须返回值
+  c:\users\hasee\source\repos\consoleapplication22\b\b.cpp(22): note: 参见“main”的声明
